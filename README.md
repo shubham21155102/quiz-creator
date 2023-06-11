@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<img src="https://raw.githubusercontent.com/shubham21155102/quiz-creator/master/Screenshot%20from%202023-06-11%2010-50-46.png">
 ## Available Scripts
 
 In the project directory, you can run:
